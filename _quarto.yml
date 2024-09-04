@@ -4,6 +4,8 @@ project:
 website:
   title: "Psych Foundations Student Repository"
   back-to-top-navigation: true
+  repo-url: https://github.com/rlisinker/PsyF-student-repo
+  repo-actions: [source, issue]
   navbar:
     right:
       - text: "Menu"
@@ -16,21 +18,12 @@ website:
           #   text: Journals/Publications
           # - href: milestones.qmd
           #   text: Milestones
-          - icon: github
-            menu:
-              - text: Source Code
-                href: github.com/rlisinker/PsyF-student-repo
-                target: _blank
-              - text: Report a Bug
-                href: github.com/rlisinker/PsyF-student-repo/issues
-                target: _blank
-        
 
 format:
   html:
     theme: solar
     css: styles.css
     toc: true
-
+    
 editor: visual
 
