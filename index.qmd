@@ -4,6 +4,6 @@ title: "About"
 
 Here's some crowd-sourced information from the students of PsyF!
 
-#### Notice any bugs or have anything you want to add? 
+#### Notice any bugs or have anything you want to add?
 
-Feel free to use [Github](github.com/rlisinker/PsyF-student-repo) to add issues or make suggestions, add to this google drive (link incoming!), or email [lisin003\@umn.edu](emailto: lisin003@umn.edu)
+Feel free to use [Github](github.com/rlisinker/PsyF-student-repo) to add issues or make suggestions, add to this google drive (link incoming!), or email [lisin003\@umn.edu](emailto:%20lisin003@umn.edu)
